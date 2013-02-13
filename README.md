@@ -35,7 +35,7 @@ I appreciate all suggestions and critiques, especially:
  * are the examples effective?
  * is the flow of information appropriate?
 
-Please submit suggestions/critiques as issues or as pull requests against this repository.
+Please submit suggestions/critiques as issues or as pull requests against this repository. You can also email me contact@jacobcmyers.com.
 
 ##License
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. For more details, see:
