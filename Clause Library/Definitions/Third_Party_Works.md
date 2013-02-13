@@ -1,0 +1,3 @@
+1. “ThirdPartyWorks”shallmeanallproprietarysoftwareofapersonorentity other than the parties to this Agreement or their affiliates, including, but not limited to, third party Development Tools, incorporated into or used by the Web Site, a complete list of which is set forth on Exhibit E attached hereto, which Exhibit E shall be amended from time to time as needed and agreed by the parties.
+
+2. “Third Party Work” means Content prepared by a Third Party retained by IV to contribute Content to a Magazine Site.

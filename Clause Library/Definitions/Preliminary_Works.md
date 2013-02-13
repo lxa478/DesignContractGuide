@@ -1,0 +1,1 @@
+Preliminary Works means all artwork including, but not limited to, concepts, sketches, visual presentations, or other alternate or preliminary designs and documents developed by Designer and which may or may not be shown and or delivered to Client for consideration but do not form part of the Final Art.

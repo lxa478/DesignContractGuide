@@ -1,0 +1,1 @@
+“Hosted Sites” means the Owner Sites that Company accepts for hosting under this Agreement.

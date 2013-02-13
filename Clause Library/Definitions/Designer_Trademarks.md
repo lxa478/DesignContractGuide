@@ -1,0 +1,1 @@
+“Designated Marks” means all trademarks, trade names, service marks and logos identified as Designated Marks by Company from time to time during the term of this Agreement.

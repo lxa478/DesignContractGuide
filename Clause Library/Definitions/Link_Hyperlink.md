@@ -1,0 +1,1 @@
+Link, Hyperlink - a 'clickable' link embedded on a web page which may take the form of a graphic or text.

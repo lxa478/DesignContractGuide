@@ -1,0 +1,1 @@
+"Host Facility" means Host's Internet-based data center and network.

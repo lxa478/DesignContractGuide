@@ -1,0 +1,1 @@
+“Absolute License” means a fully-paid license with no restrictions as to duration, geography, manner of use, assignment, sublicense or modification; and to the extent the Absolute License relates to Work Product, such license shall be a license of all unique code, including but not limited to source code and object code, and all documentation necessary to use the Work Product.

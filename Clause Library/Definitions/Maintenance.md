@@ -1,0 +1,1 @@
+“Maintenance.” Maintenance is defined as any and all work performed on or in connection with Client’s Web Site by Developer, its employees or Contractors after construction of Client's Web Site has been completed and Client’s Web Site has been Launched, including work involving design or other changes to the Web site which are done at Client’s request following the Launch.

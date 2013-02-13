@@ -1,0 +1,1 @@
+Downtime - time when the website is not accessible via the Internet.  This may be because of a technical failure of the Host or because work is being carried out on the site.

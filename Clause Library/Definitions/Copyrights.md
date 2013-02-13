@@ -1,0 +1,1 @@
+Copyrights means the property rights in original works of authorship, expressed in a tangible medium of expression, as defined and enforceable under U.S. Copyright Law.

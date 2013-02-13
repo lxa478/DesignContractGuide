@@ -1,0 +1,3 @@
+1. Trademarks means trade names, words, symbols, designs, logos or other devices or designs used in the Final Deliverables to designate the origin or source of the goods or services of Client.
+
+2. “Marks” means any and those trademarks, trade names, service marks, trade dress, logos, URLs, or identifying slogans of a party, whether or not registered, set forth at Exhibit G and as added to by the parties from time to time.

@@ -1,0 +1,1 @@
+“DevelopmentSchedule” shall mean the schedule for the development of the Web Site set forth in Exhibit B attached hereto, as the same may be amended in accordance with the terms hereof.

@@ -1,0 +1,1 @@
+“Web Site Content.” Web Site Content is defined as (a) the graphic user interface, text, images, music, other sound files and any other materials on an HTML page within Client’s Web Site, and (b) the software, if any, developed by Developer under this Agreement to implement the Client’s Web Site.

@@ -1,0 +1,1 @@
+“Defect” shall mean any failure of the Web Site, or any Interim Release thereof, to conform to, and perform in accordance with, the Design Specifications.

@@ -1,0 +1,1 @@
+“Interim Release” shall mean an interim version of the Web Site which is delivered and/or made available to XYZ in accordance with the Development Schedule and which is not generally available to Internet end-users.

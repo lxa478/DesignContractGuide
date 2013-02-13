@@ -1,0 +1,1 @@
+“Third-Party Server System.” Server System is defined as the hardware and software owned or licensed by Client’s third-party Internet service provider.

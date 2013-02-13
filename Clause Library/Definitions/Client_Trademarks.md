@@ -1,0 +1,1 @@
+“Owner Marks” means all trademarks, trade names, service marks and logos of Owner used on the Hosted Sites or otherwise delivered by Owner to Company for use under this Agreement.

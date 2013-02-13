@@ -1,0 +1,1 @@
+“PaymentSchedule” shall mean the schedule for the payment of the Development Fee (as defined in Section 5.1 hereof) set forth in Exhibit C attached hereto, as the same may be amended in accordance with the terms hereof.

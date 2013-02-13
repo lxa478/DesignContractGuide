@@ -1,0 +1,5 @@
+1. “Enhancements” means changes or additions to Code and related Documentation.
+
+2. Enhancements -- means changes or additions to Code and related Documentation.
+
+3. “Enhancements” means the addition by IV of new textual or graphic elements to Proprietary Content to render it distinct from the way such Proprietary Content appear as published by Hearst in a publication other than on a Magazine Site (other than such formatting changes as are necessary to display it on the Internet), such as by the incorporation of Interactive Elements (as hereafter defined). For purposes of this Agreement, excerpts and abridgements made pursuant to Sections 6(b) or 7(c) or formatting revisions to Hearst Content or Magazine Content made by IV in the normal course of producing or hosting any Magazine Site shall not be deemed Enhancements.

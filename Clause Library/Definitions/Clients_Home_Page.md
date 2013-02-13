@@ -1,0 +1,1 @@
+“Client’s Home Page.” Client’s Home Page is defined as the home page of the Client’s Web Site located at URL:____________.

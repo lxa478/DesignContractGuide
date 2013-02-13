@@ -1,0 +1,1 @@
+“Visitor Data” means all information provided by Visitors in connection with visits to the Site;

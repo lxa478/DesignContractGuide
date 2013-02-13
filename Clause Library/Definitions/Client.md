@@ -1,0 +1,1 @@
+The Client - the entity which enters into a contract with Your business name

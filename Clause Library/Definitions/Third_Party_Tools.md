@@ -1,0 +1,1 @@
+“Third Party Tools” means software tools or programs or other technology supplied by third parties for use in connection with the Magazine Sites.

@@ -1,0 +1,1 @@
+1.5. "Delivery Schedule" means the schedule for Development and related Services, as set forth in Exhibit A.
