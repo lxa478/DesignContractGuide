@@ -1,0 +1,1 @@
+Non-Refundable Expenses. Notwithstanding any non-conformity (whether or not identified in Non-Conformity Notice) or other breach of this Agreement, the fees (as identified on Schedule C -- the Project Budget/Pay Schedule) for the following services are non-refundable fee: (i) site planning and consultation, (ii) creative direction, (iii) art direction and (iv) Project design.

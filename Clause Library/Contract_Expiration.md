@@ -1,0 +1,1 @@
+The terms of the Project Proposal will expire in [DAYS] days. If the Project Proposal expires, Designer may modify the Project Proposal and Terms and Conditions and resubmit them to Client.

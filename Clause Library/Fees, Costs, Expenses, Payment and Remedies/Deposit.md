@@ -1,0 +1,1 @@
+Deposit / Retainer: Client will pay Designer [FEE / PERCENT] upon commencement of this project. Milestone payments will be billed against this deposit. All unearned deposit will be returned to the client.

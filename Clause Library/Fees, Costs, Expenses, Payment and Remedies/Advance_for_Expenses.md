@@ -1,0 +1,1 @@
+Advance for Expenses: Client will advance Designer [AMOUNT] dollars to cover expenses.

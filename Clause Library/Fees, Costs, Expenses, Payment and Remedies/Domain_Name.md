@@ -1,0 +1,3 @@
+1. Domain Name: If requested by Client, Designer will cooperate with Client in registering the domain name with a domain name registry chosen by Client. Client shall bear all expenses incurred in registering the domain name.
+
+2. Domain Name Registration. If Client desires to have Developer arrange for the Client's Web Site domain name registration, Developer will charge Client a one-time additional fee of $_____ to register such name for the first year of its operation. Fees for subsequent annual registrations to be discussed and agreed upon by Developer and Client at a later date.

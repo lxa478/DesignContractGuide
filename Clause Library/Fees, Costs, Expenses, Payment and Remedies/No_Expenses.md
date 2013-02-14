@@ -1,0 +1,1 @@
+1. No Expenses: Designer is responsible for all expenses incurred while performing this agreement.
